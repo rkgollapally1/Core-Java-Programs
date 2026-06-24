@@ -1,6 +1,6 @@
 package com.myproject;
 
-public class RverseString {
+public class ReverseString {
 public static void main(String[] args) {
 String str="Hello";
 String rev="";
